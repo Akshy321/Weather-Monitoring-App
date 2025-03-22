@@ -1,0 +1,6 @@
+weather_app/
+│── lib/
+│   ├── main.dart        # Main app code
+│── pubspec.yaml         # Dependencies
+│── README.md            # Documentation
+│── .gitignore           # Ignore unnecessary files
